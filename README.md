@@ -1,0 +1,17 @@
+User Input
+     ↓
+Mood Classifier (BART)
+     ↓
+Semantic Retrieval (FAISS + MiniLM)
+     ↓
+Weather + Time Context
+     ↓
+Agentic Reasoning → Playlist Intent
+     ↓
+Spotify API → Track List
+     ↓
+Mistral Reflection
+     ↓
+Store Playlist
+     ↓
+Frontend Display
